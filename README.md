@@ -1,6 +1,13 @@
+<div align="center">
+  
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Amir%20Sane&fontSize=120&animation=twinkling&fontAlignY=43&desc=A%20Technology%20Lover&descAlignY=57&descAlign=63)]()
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SS-Amir&theme=2077)
+
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SS-Amir&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SS-Amir&theme=2077)
+-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SS-Amir&theme=highcontrast&date_format=j+M+Y)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -17,14 +24,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,qt,wordpress,ps,pr&theme=light&perline=8)]()
 -->
 
-
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SS-Amir&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SS-Amir&theme=2077)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SS-Amir&show_icons=true&theme=radical)
--->
-
 <!--
 **SS-Amir/SS-Amir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
