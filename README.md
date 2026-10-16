@@ -8,14 +8,18 @@
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SS-Amir&theme=tokyonight&animation=load)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SS-Amir&theme=tokyonight&animation=load)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SS-Amir&theme=tokyonight&animation=load)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SS-Amir&theme=tokyonight&animation=load&utcOffset=0)
 -->
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SS-Amir&theme=tokyonight&hide_border=true)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 [![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+<!--
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,qt,wordpress,ps,pr&theme=light&perline=8)]()
+-->
 
 ---
 
@@ -26,11 +30,6 @@
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SS-Amir/SS-Amir/output/github-snake.svg">
   </picture>
 </div>
-
-<!--
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,qt,wordpress,ps,pr&theme=light&perline=8)]()
--->
 
 <!--
 **SS-Amir/SS-Amir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
