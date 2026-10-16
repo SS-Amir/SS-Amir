@@ -9,7 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SS-Amir&theme=2077)
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SS-Amir&theme=highcontrast&date_format=j+M+Y)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SS-Amir&theme=neon-dark&hide_border=true)]()
 
 <div>
   <picture>
