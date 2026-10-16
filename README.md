@@ -3,6 +3,14 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SS-Amir&theme=2077)
 
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SS-Amir/SS-Amir/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SS-Amir/SS-Amir/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SS-Amir/SS-Amir/output/github-snake.svg">
+  </picture>
+</div>
+
 <!--
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,qt,wordpress,ps,pr&theme=light&perline=8)]()
