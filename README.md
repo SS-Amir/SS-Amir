@@ -1,8 +1,9 @@
-## Hi there 👋
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Amir%20Sane&fontSize=120&animation=twinkling&fontAlignY=43&desc=A%20Technology%20Lover&descAlignY=57&descAlign=63)]()
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SS-Amir&theme=2077)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SS-Amir&theme=highcontrast&date_format=j+M+Y)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SS-Amir/SS-Amir/output/github-snake-dark.svg">
