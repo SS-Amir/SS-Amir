@@ -1,15 +1,23 @@
 <div align="center">
-  
+
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Amir%20Sane&fontSize=120&animation=twinkling&fontAlignY=43&desc=A%20Technology%20Lover&descAlignY=57&descAlign=63)]()
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SS-Amir&theme=2077)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Building+cool+things+with+code;Just+Coding!)]()
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SS-Amir&theme=tokyonight&animation=load)
 <!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SS-Amir&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SS-Amir&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SS-Amir&theme=tokyonight&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SS-Amir&theme=tokyonight&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SS-Amir&theme=tokyonight&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SS-Amir&theme=tokyonight&animation=load&utcOffset=0)
 -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SS-Amir&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SS-Amir&theme=neon-dark&hide_border=true)]()
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+---
 
 <div>
   <picture>
