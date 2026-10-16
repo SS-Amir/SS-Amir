@@ -2,7 +2,7 @@
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Amir%20Sane&fontSize=120&animation=twinkling&fontAlignY=43&desc=A%20Technology%20Lover&descAlignY=57&descAlign=63)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Building+cool+things+with+code;Just+Coding!)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Just+Coding!)]()
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SS-Amir&theme=tokyonight&animation=load)
 <!--
@@ -14,14 +14,18 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
+<!--
 [![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PiyushSuthar/github-readme-quotes)
+-->
 
 <!--
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,qt,wordpress,ps,pr&theme=light&perline=8)]()
 -->
+
+<!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
----
+-->
 
 <div>
   <picture>
