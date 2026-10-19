@@ -1,8 +1,8 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Amir%20Sane&fontSize=120&animation=twinkling&fontAlignY=43&desc=A%20Technology%20Lover&descAlignY=57&descAlign=63)]()
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Amir%20Sane&fontSize=120&animation=twinkling&fontAlignY=43&desc=git%20push%20and%20pray&descAlignY=60&descAlign=60)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Just+Coding!)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Code,+mostly!)]()
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SS-Amir&theme=tokyonight&animation=load)
 <!--
