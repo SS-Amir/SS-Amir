@@ -2,9 +2,9 @@
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Amir%20Sane&fontSize=120&animation=twinkling&fontAlignY=43&desc=Simply%20Building&descAlignY=60&descAlign=60)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Codes,+mostly!;git+push+and+pray;one+commit+at+a+time;Write.+Build.+Repeat.;Always+learning,+Always+building;)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=It+works+on+my+machine!;Codes,+mostly!;git+push+and+pray;Write.+Build.+Repeat.;Two+hard+things:+naming+and+off-by-one;Always+learning,+Always+building;Stack+full+of+things+to+learn;Less+code,+fewer+bugs.;git+commit+-m+"fix+stuff";Always+compiling,+never+done;Not+a+bug,+an+undocumented+feature;Abstraction+is+the+point.;Recursion:+see+"Recursion";Immutable.;Currently+in+beta,+always+improving;)]()
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SS-Amir&theme=tokyonight&animation=load)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SS-Amir&theme=tokyonight&animation=load)]()
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SS-Amir&theme=tokyonight&animation=load)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SS-Amir&theme=tokyonight&animation=load)
